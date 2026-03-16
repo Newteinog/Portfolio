@@ -1,0 +1,114 @@
+# Newton Nogueira – Cybersecurity Portfolio
+
+## Portfolio Introduction
+
+My name is Newton Nogueira, and my professional goal is to build a career in cybersecurity where technical ability, ethical responsibility, and personal integrity work together. Before starting this academic journey, I worked for many years in law enforcement in Brazil. That experience shaped the way I see responsibility, trust, and service to others. When I moved to the United States, I decided to pursue a new career in technology, focusing on cybersecurity and system administration.
+
+Transitioning to a completely different field and studying in another language has not always been easy. However, the challenges have helped me develop resilience and discipline. Through my studies at Ensign College and my internship experience, I am gaining both technical knowledge and practical skills in IT operations, cloud systems, and security fundamentals.
+
+This portfolio reflects my development during this program. It includes technical projects, internship experiences, and reflections about professional ethics. More importantly, it shows how my spiritual values influence the way I approach my professional life. For me, cybersecurity is not only about protecting systems and data, but also about protecting people and organizations that rely on technology every day.
+
+---
+
+# Guiding Principles
+
+## Integrity Before Visibility
+
+One principle that strongly guides my life is trying to do what is right even when nobody is watching. It is easy to appear ethical when actions are visible to others, but true integrity is tested when a person has the opportunity to act without supervision. In cybersecurity, professionals often have administrative privileges, access to confidential information, and the ability to change critical systems. Because of this, integrity becomes one of the most important qualities a cybersecurity professional can have.
+
+Proverbs 11:3 teaches that “the integrity of the upright shall guide them.” This scripture reminds me that integrity should guide decisions even when there is pressure to act differently. Technical skills alone are not enough in cybersecurity. Without integrity, those same skills could easily be misused. For that reason, I try to focus not only on improving my technical knowledge but also on strengthening my personal character.
+
+My experience in law enforcement also reinforced this principle. Trust was essential in that profession, and the same is true in cybersecurity. Organizations trust security professionals with systems, infrastructure, and sensitive information. I want to be someone who can be trusted in both small and large responsibilities.
+
+---
+
+## Growth Through Refinement
+
+Another important principle in my life is the idea that growth often comes through challenges. Moving from Brazil to the United States, changing careers, and studying complex technical subjects in English were all difficult experiences. At times, I felt overwhelmed by new concepts, unfamiliar terminology, and the pressure of starting over in a different country.
+
+Ether 12:27 teaches that weaknesses can become strengths when we humble ourselves and seek help from the Lord. This scripture has helped me understand that struggles are not necessarily signs of failure. Instead, they can be opportunities for learning and improvement.
+
+Studying cybersecurity requires patience and persistence. Concepts such as network security, penetration testing, and cloud infrastructure take time to fully understand. However, each challenge helps build confidence and experience. Looking back, many of the moments that felt most difficult were actually the experiences that helped me grow the most.
+
+This principle reminds me that progress usually happens gradually. Alma 37:6 teaches that “by small and simple things are great things brought to pass.” In my education and career preparation, small efforts each day eventually lead to meaningful development.
+
+---
+
+## Stewardship and Service
+
+A third principle that guides my life is stewardship. I am the first person in my family to attend college, and I feel a strong sense of responsibility regarding the opportunities I have received. Education is not something I see only as personal achievement. Instead, it is something that has been entrusted to me.
+
+Mosiah 2:17 teaches that when we serve others, we are serving God. This perspective has influenced how I think about my future career. Cybersecurity is not only about protecting computer systems. It is also about protecting the people and organizations that depend on those systems.
+
+Businesses rely on secure infrastructure to operate safely, and individuals trust that their personal information will be protected. When cybersecurity professionals do their work well, they help create stability and trust in digital environments. Thinking about my work in this way helps me see cybersecurity as a form of service.
+
+My goal is to use the knowledge and opportunities I receive to benefit not only myself but also my family, my community, and the organizations I work with.
+
+---
+
+# Professional Portfolio
+
+## Project 1 – IT Support Internship Experience
+
+During my internship as an IT Support Intern at Lins Convenience, I have gained valuable experience supporting real business systems. My responsibilities include troubleshooting point-of-sale terminals, assisting employees with login and access issues, monitoring systems, and escalating complex technical problems to senior IT staff.
+
+One of the most important lessons I learned during this internship is how closely technology is connected to business operations. When a POS system stops working or an employee cannot access the system, the problem affects sales, workflow, and customer service. Because of this, IT support requires both technical problem-solving and clear communication with non-technical users.
+
+Working in this environment helped me develop practical skills such as troubleshooting, incident documentation, and system monitoring. It also strengthened my understanding of cloud infrastructure, since many of the systems used by the company are hosted in AWS.
+
+Beyond technical skills, this experience helped me grow professionally. I learned to stay calm under pressure, analyze problems methodically, and communicate effectively with coworkers who may not have technical backgrounds.
+
+---
+
+## Project 2 – SQL Injection and Authentication Bypass Lab
+
+In this cybersecurity lab, I explored how web applications can become vulnerable to SQL injection attacks when user input is not properly validated. The purpose of the exercise was to understand how attackers can manipulate login forms to bypass authentication mechanisms.
+
+Using a vulnerable test environment, I analyzed how the application processed login credentials and discovered that the system did not properly sanitize user input. By injecting specially crafted SQL commands into the login fields, it was possible to bypass authentication and gain unauthorized access to the system.
+
+This lab demonstrated how small development mistakes can lead to serious security vulnerabilities. It also reinforced the importance of secure coding practices such as input validation, parameterized queries, and proper authentication controls.
+
+From a professional perspective, this project helped me understand the mindset of attackers and how security professionals must think proactively to identify weaknesses before they are exploited.
+
+---
+
+## Project 3 – Subdomain Enumeration Reconnaissance
+
+In this project, I performed open-source intelligence (OSINT) reconnaissance to identify subdomains associated with a target organization. The objective was to understand how attackers gather publicly available information before attempting to exploit vulnerabilities.
+
+Using tools such as Amass, Subfinder, crt.sh, and httpx, I collected data about subdomains connected to the organization’s infrastructure. Each tool produced slightly different results, which demonstrated how combining multiple reconnaissance methods can provide a more complete picture of an organization’s online presence.
+
+Through this process, I learned that organizations often expose additional services or development environments through subdomains that may not be actively monitored. From a security perspective, these overlooked systems can become entry points for attackers.
+
+This project helped me better understand the reconnaissance phase of the cybersecurity attack lifecycle and reinforced the importance of monitoring publicly exposed infrastructure.
+
+---
+
+# Ethical Dilemma Analysis
+
+One ethical dilemma in cybersecurity that illustrates the importance of professional responsibility is the 2016 Uber data breach. In this incident, attackers gained access to Uber’s cloud storage after discovering credentials that had been exposed in a private GitHub repository used by company developers. These credentials allowed the attackers to access sensitive information stored in Amazon Web Services. As a result, personal data belonging to approximately 57 million Uber users and drivers was compromised.
+
+Instead of immediately reporting the breach to regulators and notifying affected users, Uber chose to handle the situation privately. The company paid the attackers $100,000 through its bug bounty program and required them to sign a nondisclosure agreement, claiming that the stolen data had been deleted. From an ethical and professional perspective, this response was problematic because it delayed transparency and prevented users from taking steps to protect themselves.
+
+In cybersecurity, professionals have a responsibility to protect user data and to act honestly when incidents occur. Many ethical guidelines in the technology field emphasize accountability, transparency, and responsible disclosure after security breaches. By attempting to hide the incident, Uber’s leadership prioritized protecting the company’s reputation over protecting the people whose information had been exposed.
+
+This case helped me understand that cybersecurity is not only about technical skills. Ethical judgment is equally important. Security professionals must advocate for responsible disclosure and ensure that protecting users remains the highest priority in the event of a security incident.
+
+---
+
+# Reflection Activity
+
+During my reflection time this week, I thought about the connection between my spiritual life and my professional goals. I considered the idea that Elder Bednar described about different strands being woven together into one strong rope. In my life, those strands include faith, education, family responsibilities, and professional development.
+
+Sometimes it is easy to think about these areas separately. However, when I reflect more deeply, I realize that they influence each other in important ways. My faith gives me motivation and direction in my studies, especially when the work becomes difficult. At the same time, the discipline and persistence I develop through my education also strengthen my personal character.
+
+Thinking about the temple and the covenants we make there helps me remember that my life has a larger purpose than simply building a career. My professional path is important, but it is only one part of who I am. The values I try to follow—integrity, service, and responsibility—should guide both my spiritual life and my professional decisions.
+
+As I continue studying cybersecurity, I hope to build a career where these principles remain connected. Technical knowledge and professional success are valuable, but they are even more meaningful when they are guided by faith and a desire to serve others.
+
+---
+
+# References
+
+Uber Technologies Inc. (2017). *2016 data security incident.*  
+https://www.uber.com/newsroom/2016-data-incident/
