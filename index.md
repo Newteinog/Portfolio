@@ -1,12 +1,11 @@
-# Newton Nogueira – Cybersecurity Portfolio
-
-## Portfolio Introduction
+# Newton Nogueira  
+### Cybersecurity Portfolio
 
 My name is Newton Nogueira, and my professional goal is to build a career in cybersecurity where technical ability, ethical responsibility, and personal integrity work together. Before starting this academic journey, I worked for many years in law enforcement in Brazil. That experience shaped the way I see responsibility, trust, and service to others. When I moved to the United States, I decided to pursue a new career in technology, focusing on cybersecurity and system administration.
 
 Transitioning to a completely different field and studying in another language has not always been easy. However, the challenges have helped me develop resilience and discipline. Through my studies at Ensign College and my internship experience, I am gaining both technical knowledge and practical skills in IT operations, cloud systems, and security fundamentals.
 
-This portfolio reflects my development during this program. It includes technical projects, internship experiences, and reflections about professional ethics. More importantly, it shows how my spiritual values influence the way I approach my professional life. For me, cybersecurity is not only about protecting systems and data, but also about protecting people and organizations that rely on technology every day.
+This portfolio reflects my development during this program. It includes technical projects, internship experiences, and reflections about professional ethics. More importantly, it shows how my spiritual values shape how I approach my professional life. For me, cybersecurity is not only about protecting systems and data, but also about protecting people and organizations that rely on technology every day.
 
 ---
 
@@ -22,11 +21,11 @@ You can download my professional resume here:
 
 ## Integrity Before Visibility
 
-One principle that strongly guides my life is trying to do what is right even when nobody is watching. It is easy to appear ethical when actions are visible to others, but true integrity is tested when a person has the opportunity to act without supervision. In cybersecurity, professionals often have administrative privileges, access to confidential information, and the ability to change critical systems. Because of this, integrity becomes one of the most important qualities a cybersecurity professional can have.
+One principle that strongly guides my life is doing what is right even when nobody is watching. It is easy to appear ethical when actions are visible to others, but true integrity is tested when a person has the opportunity to act without supervision. In cybersecurity, professionals often have administrative privileges, access to confidential information, and the ability to change critical systems. Because of this, integrity becomes one of the most important qualities a cybersecurity professional can have.
 
 Proverbs 11:3 teaches that “the integrity of the upright shall guide them.” This scripture reminds me that integrity should guide decisions even when there is pressure to act differently. Technical skills alone are not enough in cybersecurity. Without integrity, those same skills could easily be misused. For that reason, I try to focus not only on improving my technical knowledge but also on strengthening my personal character.
 
-My experience in law enforcement also reinforced this principle. Trust was essential in that profession, and the same is true in cybersecurity. Organizations trust security professionals with systems, infrastructure, and sensitive information. I want to be someone who can be trusted in both small and large responsibilities.
+My experience in law enforcement also reinforced this principle. Trust was essential in that profession, and it is equally true in cybersecurity. Organizations trust security professionals with systems, infrastructure, and sensitive information. I want to be someone who can be trusted in both small and large responsibilities.
 
 ---
 
@@ -44,7 +43,7 @@ This principle reminds me that progress usually happens gradually. Alma 37:6 tea
 
 ## Stewardship and Service
 
-A third principle that guides my life is stewardship. I am the first person in my family to attend college, and I feel a strong sense of responsibility regarding the opportunities I have received. Education is not something I see only as personal achievement. Instead, it is something that has been entrusted to me.
+A third principle that guides my life is stewardship. I am the first person in my family to attend college, and I feel a strong sense of responsibility regarding the opportunities I have received. Education is not just about personal achievement. Instead, it is something that has been entrusted to me.
 
 Mosiah 2:17 teaches that when we serve others, we are serving God. This perspective has influenced how I think about my future career. Cybersecurity is not only about protecting computer systems. It is also about protecting the people and organizations that depend on those systems.
 
@@ -54,6 +53,18 @@ My goal is to use the knowledge and opportunities I receive to benefit not only 
 
 ---
 
+## Supporting Materials
+
+The following scriptures and teachings support my guiding principles:
+
+- Proverbs 11:3 – This scripture reinforces the importance of integrity as a guiding force in both personal and professional decisions.  
+- Ether 12:27 – This teaches me that challenges and weaknesses can become opportunities for growth and improvement.  
+- Alma 37:6 – This reminds me that consistent small efforts lead to meaningful long-term progress.  
+- Mosiah 2:17 – This helps me see my future work in cybersecurity as a form of service to others.  
+- Doctrine and Covenants 58:27–28 – This encourages me to take initiative and be actively engaged in my learning and development.
+
+  ---
+
 # Professional Portfolio
 
 ## Project 1 – IT Support Internship Experience
@@ -62,9 +73,9 @@ During my internship as an IT Support Intern at Lins Convenience, I have gained 
 
 One of the most important lessons I learned during this internship is how closely technology is connected to business operations. When a POS system stops working or an employee cannot access the system, the problem affects sales, workflow, and customer service. Because of this, IT support requires both technical problem-solving and clear communication with non-technical users.
 
-Working in this environment helped me develop practical skills such as troubleshooting, incident documentation, and system monitoring. It also strengthened my understanding of cloud infrastructure, since many of the systems used by the company are hosted in AWS.
+Working in this environment helped me develop practical skills, including troubleshooting, incident documentation, and system monitoring. It also strengthened my understanding of cloud infrastructure, as many of the company's systems are hosted on AWS.
 
-Beyond technical skills, this experience helped me grow professionally. I learned to stay calm under pressure, analyze problems methodically, and communicate effectively with coworkers who may not have technical backgrounds.
+Beyond technical skills, this experience helped me grow professionally. I learned to stay calm under pressure, analyze problems methodically, and communicate effectively with coworkers who may not have technical backgrounds. This experience also reinforced my guiding principle of integrity, as I learned the importance of being trustworthy when handling systems that directly impact business operations.
 
 ---
 
@@ -76,7 +87,7 @@ Using a vulnerable test environment, I analyzed how the application processed lo
 
 This lab demonstrated how small development mistakes can lead to serious security vulnerabilities. It also reinforced the importance of secure coding practices such as input validation, parameterized queries, and proper authentication controls.
 
-From a professional perspective, this project helped me understand the mindset of attackers and how security professionals must think proactively to identify weaknesses before they are exploited.
+From a professional perspective, this project helped me understand attackers' mindsets and how security professionals must think proactively to identify weaknesses before they are exploited. This project aligns with my principle of growth through refinement, as I learned from my mistakes and developed a deeper understanding of how vulnerabilities arise.
 
 ---
 
@@ -84,11 +95,11 @@ From a professional perspective, this project helped me understand the mindset o
 
 In this project, I performed open-source intelligence (OSINT) reconnaissance to identify subdomains associated with a target organization. The objective was to understand how attackers gather publicly available information before attempting to exploit vulnerabilities.
 
-Using tools such as Amass, Subfinder, crt.sh, and httpx, I collected data about subdomains connected to the organization’s infrastructure. Each tool produced slightly different results, which demonstrated how combining multiple reconnaissance methods can provide a more complete picture of an organization’s online presence.
+Using tools such as Amass, Subfinder, crt.sh, and httpx, I collected data on subdomains associated with the organization’s infrastructure. Each tool produced slightly different results, demonstrating that combining multiple reconnaissance methods can provide a more complete picture of an organization’s online presence.
 
 Through this process, I learned that organizations often expose additional services or development environments through subdomains that may not be actively monitored. From a security perspective, these overlooked systems can become entry points for attackers.
 
-This project helped me better understand the reconnaissance phase of the cybersecurity attack lifecycle and reinforced the importance of monitoring publicly exposed infrastructure.
+This project helped me better understand the reconnaissance phase of the cybersecurity attack lifecycle and reinforced the importance of monitoring publicly exposed infrastructure. Also, it relates to stewardship and service, as understanding exposed systems helps protect organizations and the people who depend on them.
 
 ---
 
@@ -108,7 +119,7 @@ This case helped me understand that cybersecurity is not only about technical sk
 
 During my reflection time this week, I thought about the connection between my spiritual life and my professional goals. I considered the idea that Elder Bednar described about different strands being woven together into one strong rope. In my life, those strands include faith, education, family responsibilities, and professional development.
 
-Sometimes it is easy to think about these areas separately. However, when I reflect more deeply, I realize that they influence each other in important ways. My faith gives me motivation and direction in my studies, especially when the work becomes difficult. At the same time, the discipline and persistence I develop through my education also strengthen my personal character.
+Sometimes it is easy to think about these areas separately. However, when I reflect more deeply, I realize that they influence each other in important ways. My faith gives me motivation and direction in my studies, especially when the work becomes difficult. At the same time, the discipline and persistence I developed through my education also strengthened my personal character.
 
 Thinking about the temple and the covenants we make there helps me remember that my life has a larger purpose than simply building a career. My professional path is important, but it is only one part of who I am. The values I try to follow—integrity, service, and responsibility—should guide both my spiritual life and my professional decisions.
 
@@ -116,7 +127,9 @@ As I continue studying cybersecurity, I hope to build a career where these princ
 
 ---
 
-# References
+References
 
-Uber Technologies Inc. (2017). *2016 data security incident.*  
+The Church of Jesus Christ of Latter-day Saints. (2013). The scriptures.
+
+Uber Technologies Inc. (2017). 2016 data security incident.
 https://www.uber.com/newsroom/2016-data-incident/
