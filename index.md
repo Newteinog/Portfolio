@@ -14,7 +14,9 @@ This portfolio reflects my development during this program. It includes technica
 
 You can download my professional resume here:
 
-[Download My Resume](Newton_Nogueira_Resume.pdf)
+[Download My Resume](Resume.pdf)
+
+---
 
 # Guiding Principles
 
