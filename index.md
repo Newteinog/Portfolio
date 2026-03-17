@@ -129,7 +129,7 @@ As I continue studying cybersecurity, I hope to build a career where these princ
 
 References
 
-The Church of Jesus Christ of Latter-day Saints. (2013). The scriptures.
+The Church of Jesus Christ of Latter-day Saints. The scriptures.
 
 Uber Technologies Inc. (2017). 2016 data security incident.
 https://www.uber.com/newsroom/2016-data-incident/
