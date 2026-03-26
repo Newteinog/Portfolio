@@ -127,6 +127,79 @@ As I continue studying cybersecurity, I hope to build a career where these princ
 
 ---
 
+# Week 4 – Expansion, Deepening, and Project Integration
+
+## Reflection on My Development
+
+This week made me think more about how my own choices affect my progress. In cybersecurity, no one is going to force me to learn everything. If I don’t take the time to practice, research, and try things on my own, I don’t improve. I’ve seen that especially with labs like Wireshark and AWS. At first, I felt lost, but when I kept trying and not giving up, things started to make more sense.
+
+I also realized that growth is not only technical. Sometimes I get frustrated when something doesn’t work, but I’m learning to be more patient. That has helped me not just in school but also during my internship. Small decisions, like choosing to try one more time instead of quitting, actually make a big difference.
+
+---
+
+## Spiritual and Professional Alignment
+
+One principle that has been important to me is taking initiative. I connect this with Doctrine and Covenants 58:27–28, which talks about being “anxiously engaged” in good things. In my studies, I can’t just wait for instructions. I have to go after the knowledge.
+
+Another principle is service. In cybersecurity, the goal is not just technology, but protecting people. When systems are secure, people are safer. That helps me see my future career differently. It’s not only about skills, but about responsibility.
+
+I also think about integrity. During my internship, I have access to systems and information. That requires trust. Doing the right thing, even when no one is watching, is something I try to keep in mind.
+
+---
+
+## Projects Integration
+
+One of the main projects I worked on focused on AWS cloud exploitation. I explored vulnerabilities like open S3 buckets, EC2 metadata exposure, and IAM misconfigurations. These labs helped me understand how attackers think and how small configuration mistakes can create serious risks.
+
+I also worked with Wireshark to analyze network traffic. This helped me understand how data moves across the network and how to identify patterns like TCP connections, NAT behavior, and packet flow. At the beginning, it was confusing, but after practicing, I started recognizing what I was looking at.
+
+During my internship, I worked with real systems, helping users and troubleshooting issues. This connected what I learn in class with real situations. It showed me that technical knowledge is important, but communication and problem-solving are just as important.
+
+---
+
+## Ethical Dilemma
+
+During my internship, I noticed situations where users shared passwords to make things faster. From their perspective, it saves time, but from a security perspective, it creates a serious risk.
+
+The ethical principles involved here are responsibility, integrity, and security. A better approach would be to enforce individual accounts and educate users about the dangers of sharing credentials. Even if it takes more time, it protects the system and the business.
+
+This alternative is better because it reduces the risk of unauthorized access and enables accurate tracking of actions. It also helps create a culture where security is taken seriously instead of ignored for convenience.
+
+---
+
+## Peer Review
+
+For the peer review, I analyzed a classmate’s project, focusing on both technical aspects and ethical considerations. I looked at how clearly they explained their work and whether their solution addressed real problems.
+
+I pointed out areas where their explanation could be clearer and suggested adding more detail about the impact of their project. I also mentioned how they could improve the ethical side by thinking more about user data and security.
+
+This helped me as well, because I started to look at my own work more critically.
+
+---
+
+## Project Refinement
+
+For this part, I chose to refine my AWS exploitation project. At first, my work was more focused on completing the labs, but not as well organized in its explanations.
+
+I improved it by:
+- Organizing the steps more clearly  
+- Explaining why each vulnerability matters  
+- Adding the impact of each issue in a real-world scenario  
+
+I also included ethical considerations. Just because we can exploit something doesn’t mean we should misuse it. The purpose is to understand vulnerabilities and help fix them.
+
+These changes made my project stronger. It is not only showing what I did, but also showing understanding and responsibility.
+
+---
+
+## Conclusion
+
+This week helped me connect different parts of my learning. It’s not just about finishing assignments, but about understanding how everything fits together.
+
+I can see how my technical skills, personal choices, and values are all connected. That gives my studies more meaning and helps me feel better prepared for real-world situations.
+
+---
+
 References
 
 The Church of Jesus Christ of Latter-day Saints. The scriptures.
