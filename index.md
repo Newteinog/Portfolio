@@ -139,11 +139,11 @@ I also realized that growth is not only technical. Sometimes I get frustrated wh
 
 ## Spiritual and Professional Alignment
 
-One principle that has been important to me is taking initiative. I connect this with Doctrine and Covenants 58:27–28, which talks about being “anxiously engaged” in good things. In my studies, I can’t just wait for instructions. I have to go after the knowledge.
+One principle that has been important to me is learning little by little. In 2 Nephi 28:30, it teaches that knowledge comes “line upon line.” That connects a lot with cybersecurity because nothing comes all at once. I’ve had to accept that understanding takes time, and that’s okay.
 
-Another principle is service. In cybersecurity, the goal is not just technology, but protecting people. When systems are secure, people are safer. That helps me see my future career differently. It’s not only about skills, but about responsibility.
+Another principle is diligence and responsibility. Doctrine and Covenants 90:24 teaches that if we are diligent, all things will work together for our good. In my studies and internship, I’ve seen that effort really matters. When I stay consistent, even when things are difficult, I start to see results.
 
-I also think about integrity. During my internship, I have access to systems and information. That requires trust. Doing the right thing, even when no one is watching, is something I try to keep in mind.
+I also think about accountability. In Galatians 6:5, it teaches that each person should bear their own responsibility. That applies directly to my work. I am responsible for what I learn, how I act, and how I handle systems and information. It’s something I try to take seriously.
 
 ---
 
