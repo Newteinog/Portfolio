@@ -256,8 +256,6 @@ This experience helped me understand that my career is not just about getting a 
 
 ## Mental Map – Integration of Faith and Professional Life
 
-<h3>Mental Map – Integration of Faith and Professional Life</h3>
-
 <p>
 🙏 <strong>Faith</strong><br>
 ↳ Guides my values (honesty, service, discipline)
