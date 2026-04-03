@@ -256,15 +256,17 @@ This experience helped me understand that my career is not just about getting a 
 
 ## Mental Map – Integration of Faith and Professional Life
 
-Faith → Guides my values (honesty, service, discipline)  
-↓  
-Character → Shapes how I act with others and handle responsibility  
-↓  
-Professional Actions → Ethical decisions, teamwork, problem-solving  
-↓  
-Career Growth → Building trust, developing skills, and helping others  
+<h3>Integration of Faith and Professional Life</h3>
 
-This connection helps me understand that my professional life is not separate from my beliefs. Instead, my faith influences how I learn, work, and interact with others every day.
+<p><strong>Faith</strong> → Guides my values (honesty, service, discipline)</p>
+<p><strong>Character</strong> → Shapes how I act and respond to challenges</p>
+<p><strong>Professional Actions</strong> → Ethical decisions, teamwork, problem-solving</p>
+<p><strong>Career Growth</strong> → Building trust and developing skills</p>
+
+<p>
+This connection shows me that my professional life is not separate from my beliefs. 
+Instead, my faith influences how I learn, work, and interact with others every day.
+</p>
 
 ---
 
