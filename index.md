@@ -254,6 +254,20 @@ This experience helped me understand that my career is not just about getting a 
 
 ---
 
+## Mental Map – Integration of Faith and Professional Life
+
+Faith → Guides my values (honesty, service, discipline)  
+↓  
+Character → Shapes how I act with others and handle responsibility  
+↓  
+Professional Actions → Ethical decisions, teamwork, problem-solving  
+↓  
+Career Growth → Building trust, developing skills, and helping others  
+
+This connection helps me understand that my professional life is not separate from my beliefs. Instead, my faith influences how I learn, work, and interact with others every day.
+
+---
+
 ## Conclusion
 
 In conclusion, this experience helped me understand that my journey is not only about developing technical skills but also about becoming a better, more disciplined person. Throughout this process, I have seen how important it is to stay consistent, patient, and open to learning, even when things feel difficult or slow.
