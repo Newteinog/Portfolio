@@ -192,7 +192,7 @@ These changes made my project stronger. It is not only showing what I did, but a
 
 ---
 
-Week 5 - Integration, Reflection, and Design Enhancement
+## Week 5 - Integration, Reflection, and Design Enhancement
 
 ## Reflection
 
@@ -220,7 +220,7 @@ During usability testing of my portfolio, I identified some areas for improvemen
 
 To improve this, I reorganized the layout and made the sections more intuitive. I also reviewed the content to remove unnecessary information and make the text clearer and more direct.
 
-Another issue was readability. Some sections had too much text, with no clear separation. I improved this by breaking content into smaller paragraphs and making it easier to scan.
+Another issue was readability. Some sections had too much text and lacked clear separation. I improved this by breaking content into smaller paragraphs and making it easier to scan.
 
 These changes improved the overall user experience by making the portfolio more accessible, easier to navigate, and more professional.
 
@@ -256,9 +256,11 @@ This experience helped me understand that my career is not just about getting a 
 
 ## Conclusion
 
-This week helped me connect different parts of my learning. It’s not just about finishing assignments, but about understanding how everything fits together.
+In conclusion, this experience helped me understand that my journey is not only about developing technical skills but also about becoming a better, more disciplined person. Throughout this process, I have seen how important it is to stay consistent, patient, and open to learning, even when things feel difficult or slow.
 
-I can see how my technical skills, personal choices, and values are all connected. That gives my studies more meaning and helps me feel better prepared for real-world situations.
+As I continue working toward my cybersecurity goals, I want to remain grounded in my values and guided by my faith. I have learned that challenges are part of growth, and each step, even small ones, is helping me move forward.
+
+This portfolio represents more than just assignments or projects. It reflects my effort, my progress, and my commitment to improving every day. I know I still have a lot to learn, but I feel more confident now. I am moving forward with a clearer purpose and a stronger mindset for both my professional and personal life.
 
 ---
 
