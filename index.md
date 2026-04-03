@@ -153,7 +153,7 @@ One of the main projects I worked on focused on AWS cloud exploitation. I explor
 
 I also worked with Wireshark to analyze network traffic. This helped me understand how data moves across the network and how to identify patterns like TCP connections, NAT behavior, and packet flow. At the beginning, it was confusing, but after practicing, I started recognizing what I was looking at.
 
-During my internship, I worked with real systems, helping users and troubleshooting issues. This connected what I learn in class with real situations. It showed me that technical knowledge is important, but communication and problem-solving are just as important.
+During my internship, I worked with real systems, helping users and troubleshooting issues. This connected what I learned in class with real situations. It showed me that technical knowledge is important, but communication and problem-solving are just as important.
 
 ---
 
@@ -189,6 +189,68 @@ I improved it by:
 I also included ethical considerations. Just because we can exploit something doesn’t mean we should misuse it. The purpose is to understand vulnerabilities and help fix them.
 
 These changes made my project stronger. It is not only showing what I did, but also showing understanding and responsibility.
+
+---
+
+Week 5 - Integration, Reflection, and Design Enhancement
+
+## Reflection
+
+This week helped me slow down and really think about who I am becoming, not just what I am doing. As I reviewed my portfolio, I realized that growth is not only technical, but also spiritual and personal.
+
+One Christlike attribute I have been trying to develop is patience. Sometimes I get frustrated when things don’t work as expected, especially in technical tasks or labs. Instead of giving up, I am learning to take a step back, stay calm, and try again with a better mindset.
+
+Another important attribute is humility. Changing careers into cybersecurity has been challenging, and there are moments when I feel behind compared to others. However, I am learning that humility allows me to keep learning, accept feedback, and improve over time.
+
+Some of my personal warning signs are stress, discouragement, and comparing myself with others. When that happens, I tend to lose focus and motivation. To overcome this, I try to reconnect with my purpose and remember why I started this journey.
+
+2 Nephi 2:25 reminds me that challenges are part of life and growth. Difficult moments are not a sign that I am failing, but an opportunity to become stronger and find purpose in what I am doing.
+
+Joshua 1:9 also gives me strength to continue. It reminds me to be courageous and not be afraid when facing new situations. As I continue to develop my skills and build my career, I know I am not alone in this process.
+
+Reviewing my portfolio helped me identify areas that needed improvement, especially in organization and clarity. I made adjustments to present my work better and ensure it reflects both my professional development and who I am becoming as a person.
+
+This experience is helping me understand that success is not only about technical knowledge, but also about character, faith, and consistency. I am not only building a portfolio, but also building a stronger version of myself.
+
+---
+
+## Usability
+
+During usability testing of my portfolio, I identified some areas for improvement. One of the main issues was navigation. Some sections were not clearly organized, which could make it difficult for users to find information quickly.
+
+To improve this, I reorganized the layout and made the sections more intuitive. I also reviewed the content to remove unnecessary information and make the text clearer and more direct.
+
+Another issue was readability. Some sections had too much text, with no clear separation. I improved this by breaking content into smaller paragraphs and making it easier to scan.
+
+These changes improved the overall user experience by making the portfolio more accessible, easier to navigate, and more professional.
+
+This process helped me understand the importance of thinking from the user’s perspective, rather than focusing solely on the content itself.
+
+---
+
+## Ethical Dilemma
+
+The ethical dilemma I analyzed involved accessing or exposing sensitive information in a system without proper authorization. In cybersecurity, situations like this can happen when a vulnerability is discovered.
+
+My view is that even if access is technically possible, it does not mean it is ethically correct. Acting without authorization can harm individuals, organizations, and trust.
+
+In a real-world situation, I would follow proper procedures, such as reporting the vulnerability through the correct channels and avoiding any unnecessary access to sensitive data.
+
+This exercise helped me understand that strong ethical principles must always guide technical skills. As I continue in my career, I want to be known not only for my skills but also for my integrity and responsibility.
+
+---
+
+## Spiritual + Professional Reflection
+
+This reflection helped me see how my spiritual beliefs are directly connected to my professional life. I used to think they were separate, but now I understand they influence each other.
+
+My faith teaches me values such as honesty, discipline, service, and perseverance. These values are essential in cybersecurity, where trust and responsibility are critical.
+
+One important realization I had is that the way I treat people, even in professional environments, reflects my beliefs. Whether working with a team, helping a user, or solving a problem, I want to act with respect and integrity.
+
+A scripture that supports this idea is Doctrine and Covenants 58:27, which teaches that we should be anxiously engaged in a good cause and do many things of our own free will. This motivates me to take initiative in both my personal and professional growth.
+
+This experience helped me understand that my career is not just about getting a job, but about becoming someone who can positively impact others through both skills and character.
 
 ---
 
