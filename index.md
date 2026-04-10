@@ -67,14 +67,16 @@ The following scriptures and teachings support my guiding principles:
 
 # Professional Portfolio
 
-## Project 1 – IT Support Intern – Lins Convenience
+## Project 1 – IT Support Internship Experience
 
-* Resolved critical POS network outages during peak hours by diagnosing connectivity issues, identifying a faulty switch port, and restoring service quickly, minimizing business disruption and maintaining customer service operations.
-* Supported users with login and access issues by troubleshooting permission errors and clearly communicating solutions, improving user confidence, and reducing repeated support requests.
-* Performed system enumeration and troubleshooting tasks by using structured testing methods and tools, improving accuracy in diagnosing hardware and network-related issues.
-* Conducted preventive maintenance by verifying system performance, checking backups, and monitoring devices, reducing the risk of unexpected failures and improving system reliability.
-* Documented recurring technical issues and solutions in a clear and structured format, helping improve team efficiency and enabling faster troubleshooting in future incidents.
-  
+During my internship as an IT Support Intern at Lins Convenience, I have gained valuable experience supporting real business systems. My responsibilities include troubleshooting point-of-sale terminals, assisting employees with login and access issues, monitoring systems, and escalating complex technical problems to senior IT staff.
+
+One of the most important lessons I learned during this internship is how closely technology is connected to business operations. When a POS system stops working or an employee cannot access the system, the problem affects sales, workflow, and customer service. Because of this, IT support requires both technical problem-solving and clear communication with non-technical users.
+
+Working in this environment helped me develop practical skills, including troubleshooting, incident documentation, and system monitoring. It also strengthened my understanding of cloud infrastructure, as many of the company's systems are hosted on AWS.
+
+Beyond technical skills, this experience helped me grow professionally. I learned to stay calm under pressure, analyze problems methodically, and communicate effectively with coworkers who may not have technical backgrounds. This experience also reinforced my guiding principle of integrity, as I learned the importance of being trustworthy when handling systems that directly impact business operations.
+
 ---
 
 ## Project 2 – SQL Injection and Authentication Bypass Lab
