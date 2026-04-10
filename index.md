@@ -68,12 +68,13 @@ The following scriptures and teachings support my guiding principles:
 # Professional Portfolio
 
 ## Project 1 – IT Support Intern – Lins Convenience
-**Resolved critical POS network outages during peak hours by diagnosing connectivity issues, identifying a faulty switch port, and restoring service quickly, minimizing business disruption and maintaining customer service operations.
-Supported users with login and access issues by troubleshooting permission errors and clearly communicating solutions, improving user confidence, and reducing repeated support requests.
-Identified and resolved a recurring printer failure by investigating the root cause instead of applying temporary fixes, correcting a configuration mismatch, and eliminating repeated interruptions at checkout.
-Performed system enumeration and troubleshooting tasks by using structured testing methods and tools, improving accuracy in diagnosing hardware and network-related issues.
-Conducted preventive maintenance by verifying system performance, checking backups, and monitoring devices, reducing the risk of unexpected failures and improving system reliability.
-Documented recurring technical issues and solutions in a clear and structured format, helping improve team efficiency and enabling faster troubleshooting in future incidents.**
+
+* Resolved critical POS network outages during peak hours by diagnosing connectivity issues, identifying a faulty switch port, and restoring service quickly, minimizing business disruption and maintaining customer service operations.
+* Supported users with login and access issues by troubleshooting permission errors and clearly communicating solutions, improving user confidence, and reducing repeated support requests.
+* Performed system enumeration and troubleshooting tasks by using structured testing methods and tools, improving accuracy in diagnosing hardware and network-related issues.
+* Conducted preventive maintenance by verifying system performance, checking backups, and monitoring devices, reducing the risk of unexpected failures and improving system reliability.
+* Documented recurring technical issues and solutions in a clear and structured format, helping improve team efficiency and enabling faster troubleshooting in future incidents.
+  
 ---
 
 ## Project 2 – SQL Injection and Authentication Bypass Lab
